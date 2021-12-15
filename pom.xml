@@ -45,7 +45,7 @@
 	</build>
 	<scm>
 		<developerConnection>
-			scm:git:git@github.com:LuciaHM/sfg-pet-clinic
+			scm:git:git@github.com:LuciaHM/sfg-pet-clinic.git
 
 		</developerConnection>
 	</scm>
